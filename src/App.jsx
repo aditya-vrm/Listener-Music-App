@@ -3,7 +3,7 @@ import Navbar from "./Components/Navbar"
 import Card from "./Components/Card";
 
 import die from "./assets/images/die-with-smile.jpg";
-import tum from "./assets/images/Tum tak.jpg";
+import tum from "./assets/images/Tum Tak.jpg";
 import awara from "./assets/images/Awara.jpg";
 import co2 from "./assets/images/CO2.jpg";
 import ikkudi from "./assets/images/Ik Kudi.jpg";
