@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Navbar from "./Components/navbar";
+import Navbar from "./Components/Navbar"
 import Card from "./Components/Card";
 
 import die from "./assets/images/die-with-smile.jpg";
